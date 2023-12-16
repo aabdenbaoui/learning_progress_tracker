@@ -1,0 +1,22 @@
+hyperskill_project:
+  id: 197
+  ide_files: https://cogniterra.org/media/attachments/lesson/25673/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Thu, 01 Jan 1970 00:00:00 UTC"
+stages:
+  - id: 979
+    step: 14396
+    is_completed: false
+  - id: 980
+    step: 14397
+    is_completed: false
+  - id: 981
+    step: 14398
+    is_completed: false
+  - id: 982
+    step: 14399
+    is_completed: false
+  - id: 983
+    step: 14400
+    is_completed: false
